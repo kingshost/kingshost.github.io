@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/icflorescu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kingshost.github.io
+  * I am icflorescu (https://keybase.io/icflorescu) on keybase.
+  * I have a public key with fingerprint 3573 FBCB 8F4D 6946 13D3  923F 6C94 B599 DA7D 52B8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012030a375d2bd46890f1b6f3c00eeabe6f71e9bf7bcbe3778afa5613f521033e6270a",
+      "fingerprint": "3573fbcb8f4d694613d3923f6c94b599da7d52b8",
+      "host": "keybase.io",
+      "key_id": "6c94b599da7d52b8",
+      "kid": "0101f6c6c8ba178ea2745b26be9b2abdd9ac03a1435d518c2216dd08c498034d15460a",
+      "uid": "81f4ec21b92302f647c6da28c2f90719",
+      "username": "icflorescu"
+    },
+    "merkle_root": {
+      "ctime": 1641224424,
+      "hash_meta": "82ee0c5bae7f3271caf88980ff89e99dd636c056ceaa6c9fd36657b179e775be",
+      "seqno": 21551451
+    },
+    "revoke": {
+      "sig_ids": [
+        "61733fc8af71e5ce62a1512e548c1c3223a6a725385fa0b8cd1d548b0d13d3390f"
+      ]
+    },
+    "service": {
+      "hostname": "kingshost.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1641224444,
+  "expire_in": 157680000,
+  "prev": "3990046929c3ac14d95303a99a1bdd59252161b61035c81fe6af877b34d529fc",
+  "seqno": 123,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQHAnicbVNrbBRVGC0USB9QS2uggs+BIkILc+/MnceCJbblXWxTpNCgLnfu3Nkd
+druzzM4uj1oiJDRgC1GoRR7GV6GQugGTthjSYimEopU/kCIxIqSIJgKKoFigUu9U
+iIlx/kzuzPnOd75zvntyVGJCypBgXcuub6tKPx/S3bkhmoDPZfVXcpqlr+U8lVyA
+Dr5oUKcRxxswdc7D8QDyAo8FGelQ00VJUXkDaJIhEJ6nFGtUMmRAVc2QNaJRQZYV
+bGAkAcFAEPCCQCUo85jL4Qwz5KN22DZDDqMVkCwYrEIxRF1SRYbXBRUKhkRUUUOq
+qmNZR1BTWKHfirgVTJyGI3SaabFv7OAdlPc/+Ee6ecDYJKJoGMgKxVAWkQYljWmF
+WNN1FRNewEAUkI6AQiAEkq7zChFVhRdEHSBRGtQdHaRTgCFSAoHGRPLQkESZSDqG
+rM5QeRmoLjBC7RCuoAxtEiNo2TRColxVDldB7UCQem3Lclx7iWO6ICCJAEJRhCIb
+EUf83grqYLcTpJQnSMNUNgQoA4INRWGaDENRKRtUlwSJ8EgiFGM2vaELkoRkDcgq
+lWWkUaYkQleFLM4DAUJARIBJsGnMClC3e8T0MecinGc5JwFZEAzCAmMJIsKSwgAB
+SJGoEEAECAUsYRkiQUEG5jWF6EBn/zRed9MS2CJwr1W53eyYSQbJ3ageWhBgcUfc
+8zSf6fij2j+5hW3LsYgVZAC/44QjHtcfZ23YrVhNNe9DLq9mhnRGwCpi1I6YVoj5
+xZD/sU5k1tE1YdOmXtNFIFlSePa4fWjM3TJV5XlRUqFKBEyAqKtIYKGrKgZsA5AK
+2Y5KbJvZoiLCIqYSM1uWNZY/gqpB/vUSQIEJxT5GyhwMYSdqU66q8/irwxKGpCSM
+GD7UvUkJKcnpj+6XJ+2xgXD8m9LKkdp0kHbIF7x+Ygff9dSina29FbVbU/fvr+up
+vNu0JLH5yhO+ugVbskvX0Zd6r06dOBavPLEhe8EIqfudzC8upuaHluZvXT1nz84H
+r6+c4q87dP9MZWfqi7fzOuOjv2yqaague39e/coWsvfw2Rve576+VG9enHJ+Qu+q
+N/s7Ru/+86f5ZRO++iPp2jUxtyk0/vr6+1lvHek5sCK19VLXoq3TQu2Ru7/3/ZJY
+M6n+wQsfwLKMtrw3Pp5cPCfecbZvVzg9e9KBve9lFsBLFws9D/qLtb5Z+w7fctYc
+bFpWczpX95YPHOV8ZZOvXDUC8da8H2/fGP+JycWVmxmjhp+t3nZy4fZXxiw8sDPm
+bx1W3jXOPrcpq7vwyJ25eVzB822FGfu2Nxy90JOSEJ79dHbS4gX+J3f3JcdPVY+N
+XmhcWLN/029VJWzoxzsKGteNi51LLM1t6wts/HTexprTbzv3Zq2fiyffGpO5PDDz
+TGlx1Zoke13mz5uzrIIpx2PlvWdmN6eRz4rqb8oDznxfjult+8FaXJR78FhJ7TPP
+FhUlzd/RvSxrZO3Ilmvy+Nld1cmjp1a3F+XPDJ2uHdjYcfflPX81ih8Fv1sx9PJ0
+X3hRvD29aXmov2Tm1bobx2Q9eUtR9uXdOTMyygsnpvc0Hnk3+qE3K1rQPAB/bR6V
+P+NUy520bUs67jXUzF060F7y/XnrbylR/+I=
+=grcs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/icflorescu
+
+==================================================================
